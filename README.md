@@ -217,17 +217,6 @@ class GurudharsanT:
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="40">
-  <h2>🏆 Achievements</h2>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=guru-dharsan-git&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=guru-dharsan-git&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</div>
-
 <br>
 
 <div align="center">
