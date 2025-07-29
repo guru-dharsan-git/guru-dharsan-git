@@ -20,5 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guru-dharsan-git&show_icons=true&locale=en" alt="guru-dharsan-git" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guru-dharsan-git&" alt="guru-dharsan-git" /></p>
 
